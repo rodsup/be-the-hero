@@ -21,7 +21,7 @@
     justify-content: space-between;
 }
 
-.new-incident-container .container section {
+.new-incident-container .content section {
     width: 100%;
     max-width: 380px;
 }
@@ -31,7 +31,7 @@
     font-size: 32px;
 }
 .new-incident-container .content section p {
-    font-size: 16px;
+    font-size: 18px;
     color: #737380;
     line-height: 32px;
 }
